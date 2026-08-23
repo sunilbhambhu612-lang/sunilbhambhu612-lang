@@ -131,18 +131,18 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BHAGIRATH-KATARIYA-GIT&theme=shadow-green&hide_border=true" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sunilbhambhu612-lang&theme=shadow-green&hide_border=true" width="70%" />
 
 <br><br>
 
 <table align="center">
 <tr>
 <td width="60%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BHAGIRATH-KATARIYA-GIT&theme=github-compact&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilbhambhu612-lang&theme=github-compact&hide_border=true&area=true" />
 </td>
 
 <td width="40%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHAGIRATH-KATARIYA-GIT&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunilbhambhu612-lang&theme=tokyonight" />
 </td>
 </tr>
 </table>
