@@ -131,7 +131,7 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=sunilbhambhu612-lang&theme=shadow-green&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=sunilbhambhu612-lang&theme=shadow-green&hide_border=true" width="70%" />
 
 <br><br>
 
