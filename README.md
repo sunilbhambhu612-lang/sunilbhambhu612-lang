@@ -1,71 +1,127 @@
-# Hi, I'm Sunil 👋
+Skip to content
+BHAGIRATH-KATARIYA-GIT
+BHAGIRATH-KATARIYA-GIT
+Repository navigation
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security and quality
+Insights
+BHAGIRATH-KATARIYA-GIT
+BHAGIRATH-KATARIYA-GIT
+Public
+Go to file
+t
+T
+BHAGIRATH-KATARIYA-GIT
+BHAGIRATH-KATARIYA-GIT
+Clean up badges in README.md
+653f6b3
+ · 
+last month
+Name		
+README.md
+Clean up badges in README.md
+last month
+Repository files navigation
+README
+Header GIF
 
-I'm a B.Tech student passionate about Data Structures, Competitive Programming, and Software Development.
+🎓 Student • 💻 Web Developer • 🧠 DSA & Competitive Programming
 
-🔭 Currently working on DSA, Competitive Programming, and Full-Stack Projects.
+🧠 About Me
+🎓 I'm B.TECH CSE student at IIIT KOTA
 
-🌱 Currently learning Advanced DSA, Backend Development, and AI.
+🚀 Passionate about building modern web apps
 
-💻 I enjoy building real-world projects and solving challenging programming problems.
+🧩 Strong interest in Data Structures & Algorithms
 
----
+🛠️ Love solving real-world problems with code
 
-## 🛠️ Tech Stack
+⚙️ Exploring DevOps and system Design concepts
 
-### Languages
+📚 Always learning new technologies
 
-C++ • JavaScript • HTML • CSS • SQL
+💻 Tech Stack:
+🧠 Languages
+C C++ Java Python JavaScript TypeScript
 
-### Web Development
+🎨 Frontend
+HTML5 CSS3 React Next JS Redux React Router TailwindCSS Vite
 
-React • Node.js • Express.js • MongoDB • Tailwind CSS
+⚙️ Backend
+NodeJS Express.js
 
-### Tools
+FastAPI
 
-Git • GitHub • VS Code • Postman
+GraphQL JWT Socket.io
 
----
+🗄️ Databases
+MySQL
 
-## 🚀 Featured Projects
+MongoDB Redis
 
-Coming soon — I'll add my best projects here.
+☁️ DevOps & Cloud
+Docker Kubernetes Nginx
 
----
+GitHub Actions AWS -->
 
-## 🧠 Competitive Programming
+Vercel Netlify Render
 
-* LeetCode
-* CodeChef
-* Codeforces
+🛠️ Tools
+Git GitHub GitLab Postman Jest Cypress Mocha Notion
 
-Currently improving my problem-solving and competitive programming skills.
+📊 GitHub Stats
 
----
 
-## 📚 Currently Learning
 
-* Advanced Data Structures & Algorithms
-* Competitive Programming
-* Backend Development
-* AI & Machine Learning
 
----
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunilbhambhu612-lang\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilbhambhu612-lang\&layout=compact\&theme=tokyonight\&hide_border=true)
+	
+📬 Let's Connect
 
----
+LinkedIn    Reddit    X    Gmail
 
-## 🤝 Connect With Me
+bhagirath.katariya.dev@gmail.com
 
-* LinkedIn
-* LeetCode
-* CodeChef
-* Codeforces
 
----
+💬 Open to collaborations, learning opportunities & meaningful conversations
 
-⭐ Thanks for visiting my profile!
+About
+No description, website, or topics provided.
+Resources
+Readme
+Activity
+Stars
+0 stars
+Watchers
+0 watching
+Forks
+0 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Contributors
+1
+ (1)
+@BHAGIRATH-KATARIYA-GIT
+BHAGIRATH-KATARIYA-GITAervix
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+ 
