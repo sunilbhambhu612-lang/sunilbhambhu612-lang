@@ -15,7 +15,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Problem+Solving+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=ECE+Student;Problem+Solving+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode" />
 </h1>
 
 
